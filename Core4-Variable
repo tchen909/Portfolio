@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Variables</h1>
+  <h2>Definitions</h2>
+  <h2>Descriptions</h2>
+  <h2>Scratch</h2>
+  
+  <h2>Python</h2>
+  <code>
+    my_variable = "Hello"
+    print(my_variable)
+  </code>
+  <h2>C++</h2> 
+  <code>
+    int my_variable = 0;
+    </code>
+</body>
+</html>
